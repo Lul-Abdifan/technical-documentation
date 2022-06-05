@@ -1,0 +1,35 @@
+*
+{
+    padding:0px;
+    margin:0px;
+}
+#navbar
+{
+    position:fixed;
+    top:0px;
+    left:0px;
+    width:330px;
+    height:100vw;
+    background-color: lightpink;
+
+    border-right: 3px solid black;
+}
+.nav-link
+{
+    display:flex;
+    line-height: 45px;
+    font-size:large;
+    text-decoration: none;
+    border-top:3px solid black;
+}
+#navbar a
+{
+    padding-left:30px;
+    color:black;
+    font-size:larger;
+
+}
+#navbar header
+{
+    padding:15px 40px;
+}
