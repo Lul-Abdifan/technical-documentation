@@ -71,3 +71,22 @@ section header
     margin:15px 0px;
     text-shadow:2px 2px orange;
 }
+@media (max-width:600px)
+{
+
+    #navbar
+    {
+        width:200px;
+    }
+    .nav-link
+    {
+
+        font-size:10px;
+    }
+    section .main-section p,   section .main-section li
+    {
+        width:300px;
+        margin-left:-200px;
+   
+    }
+}
