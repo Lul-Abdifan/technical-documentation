@@ -33,6 +33,14 @@
 {
     padding:15px 40px;
 }
+a:hover
+{
+    background-color: rebeccapurple;
+
+    font-weight:bolder;
+    transition: background-color 0.1ms ease-in-out;
+
+}
 #main-doc
 {
     width:750px;
